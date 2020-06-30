@@ -30,7 +30,7 @@ List of design patterns is already implemented
 
 ### Creational
 
-[ ] [Singleton](http://github.com)
+[x] [Singleton](https://github.com/lemissel/designPatternsWithTypescript/blob/singleton/singleton/SINGLETON.md)
 
 ### Structural
 TODO
